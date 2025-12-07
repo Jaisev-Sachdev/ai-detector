@@ -1,6 +1,4 @@
-Here is the `README.md` content in plaintext for you to copy:
-
-# 🕵️‍♂️ AI vs Real Image Detector
+# AI vs Real Image Detector
 
 This project is a Binary Image Classifier capable of distinguishing between **Real Photographs** and **AI-Generated Images** (e.g., Midjourney, Stable Diffusion).
 
